@@ -1,2 +1,5 @@
 pyperclip
+
 yt-dlp
+
+download ffmpeg
